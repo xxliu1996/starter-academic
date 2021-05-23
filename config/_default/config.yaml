@@ -4,8 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Xingxing Liu # Website name
-  - icon: twitter
-    icon_pack: fab
 baseurl: 'https://xingxing-liu.netlify.app' # Website URL
 copyright: '© {2021} Xingxing Liu' # Footer text, e.g. '© {year} Me'
 
